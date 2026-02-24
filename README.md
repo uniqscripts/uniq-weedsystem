@@ -4,18 +4,18 @@ Simple weed system for FiveM
 
 ![](https://img.shields.io/github/downloads/uniqscripts/uniq-weedsystem/total?logo=github)
 
-# 📚 Documentation
+## 📚 Documentation
 [https://docs.uniq-scripts.com/documentation/free-resources/weed-system](https://docs.uniq-scripts.com/documentation/free-resources/weed-system)
 
-# 📁 Download
+## 📁 Download
 [https://github.com/uniqscripts/uniq-weedsystem/releases/latest/download/uniq-weedsystem.zip](https://github.com/uniqscripts/uniq-weedsystem/releases/latest/download/uniq-weedsystem.zip)
 
-# Supported frameworks
+## Supported frameworks
 - [esx](https://github.com/esx-framework/esx_core)
 - [qbcore](https://github.com/qbcore-framework/qb-core)
 - [qbox](https://github.com/Qbox-project/qbx_core)
 
-# ✨ Features
+## ✨ Features
 - Take care of your weed plant! The reward out of it will be depending on how you take care of it
 - Your plant requires water, herbicide and fertilizer
 - Blacklist zones where players can’t place the pot
@@ -27,7 +27,7 @@ Simple weed system for FiveM
 - Target via QT, QB or OX Target
 - Localization available
 
-# Copyright
+## Copyright
 Copyright © 2026 Uniq Scripts
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
