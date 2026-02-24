@@ -2,7 +2,7 @@
 
 Simple weed system for FiveM
 
-![](https://img.shields.io/github/downloads/uniqscripts/uniq-weedsystem/total?logo=github)
+![Github All Releases](https://img.shields.io/github/downloads/uniqscripts/uniq-weedsystem/total.svg)
 
 ## 📚 Documentation
 [https://docs.uniq-scripts.com/documentation/free-resources/weed-system](https://docs.uniq-scripts.com/documentation/free-resources/weed-system)
