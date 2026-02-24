@@ -1,0 +1,66 @@
+{
+    "seedMenu": {
+        "title": "Posiziona Seme",
+        "noSeed": "Non hai semi da mettere in un vaso",
+        "putSeed": "Clicca per mettere il seme nel vaso"
+    },
+    "shopMenu": {
+        "itemDesc": "Clicca per acquistare l'oggetto 1x per %s$",
+        "amount": "Quantità di %s",
+        "enter": "Inserisci Quantità",
+        "confirmation": "Conferma",
+        "confirmMessage": "Sei sicuro di voler acquistare %s %x per **%s$**?"
+    },
+    "progress": {
+        "placeSeed": "Posizionamento Seme...",
+        "sprayPlant": "Spruzzando la Pianta...",
+        "fertilizePlant": "Concimando la Pianta...",
+        "waterPlant": "Annaffiando la Pianta...",
+        "harvestPlant": "Raccogliendo la Pianta...",
+        "destroyPlant": "Bruciando la Pianta..."
+    },
+    "textUI": {
+        "open": "[E] - Apri Pianta",
+        "destroy": "[G] - Distruggi Pianta",
+        "shop": "[E] - Apri Negozio",
+        "carry": "Trasporta Pianta  \n [ENTER] - Posiziona a terra  \n [BACKSPACE] - Annulla"
+    },
+    "target": {
+        "openMenu": "Apri Pianta",
+        "destroyPlant": "Distruggi Pianta",
+        "openShop": "Apri Negozio"
+    },
+    "notify": {
+        "success": {
+            "title": "Successo",
+            "potPlaced": "Hai posizionato il vaso con successo",
+            "seedPlaced": "Hai messo il seme nel vaso con successo",
+            "wateredPlant": "Hai annaffiato la pianta con successo",
+            "fetilizedPlant": "Hai concimato la pianta con successo",
+            "sprayedPlant": "Hai spruzzato la pianta con successo",
+            "harvestedPlant": "Hai raccolto una pianta e ottenuto x%s %s foglie.",
+            "destroyedPlant": "Hai distrutto la pianta con successo",
+            "itemPurchased": "Hai acquistato con successo %s per %s$",
+            "plantCarried": "Hai spostato la pianta con successo",
+            "plantFound": "Hai copiato con successo l'ID della pianta",
+            "teleportedPlant": "Ti sei teletrasportato alla pianta con successo",
+            "deletedPlant": "Hai eliminato la pianta con successo"
+        },
+        "error": {
+            "title": "Errore",
+            "maxPlants": "Hai posizionato il numero massimo di vasi",
+            "noShovel": "Non hai una vanga nel tuo inventario",
+            "maxWater": "La tua pianta ha la quantità massima di acqua",
+            "noWater": "Non hai acqua distillata per annaffiare la pianta",
+            "maxFertilizer": "La tua pianta ha la quantità massima di concime",
+            "noFertilizer": "Non hai concime per fertilizzare la tua pianta",
+            "maxSpray": "La tua pianta è spruzzata al massimo",
+            "noSplay": "Non hai uno spruzzatore per trattare la tua pianta",
+            "noCanister": "Non hai una tanica per distruggere la pianta",
+            "noMoney": "Non hai abbastanza soldi per acquistare l'oggetto",
+            "noPlantNearby": "Nessuna pianta trovata nelle vicinanze",
+            "noPlant": "Non esiste alcuna pianta con l'ID inserito",
+            "cantHarvest": "Non puoi raccogliere la pianta perché non è ancora cresciuta"
+        }
+    }
+}

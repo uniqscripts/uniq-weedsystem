@@ -1,0 +1,66 @@
+{
+    "seedMenu": {
+        "title": "Samen platzieren",
+        "noSeed": "Du hast keine Samen, die du in einen Topf setzen kannst",
+        "putSeed": "Klicken, um Samen in den Topf zu setzen"
+    },
+    "shopMenu": {
+        "itemDesc": "Klicken, um Gegenstand 1x für %s$ zu kaufen",
+        "amount": "Menge von %s",
+        "enter": "Menge eingeben",
+        "confirmation": "Bestätigung",
+        "confirmMessage": "Bist du sicher, dass du %s %x für **%s$** kaufen möchtest?"
+    },
+    "progress": {
+        "placeSeed": "Samen werden platziert...",
+        "sprayPlant": "Pflanze wird besprüht...",
+        "fertilizePlant": "Pflanze wird gedüngt...",
+        "waterPlant": "Pflanze wird gegossen...",
+        "harvestPlant": "Pflanze wird geerntet...",
+        "destroyPlant": "Pflanze wird verbrannt..."
+    },
+    "textUI": {
+        "open": "[E] - Pflanze öffnen",
+        "destroy": "[G] - Pflanze zerstören",
+        "shop": "[E] - Shop öffnen",
+        "carry": "Pflanze tragen  \n [ENTER] - Auf den Boden stellen  \n [BACKSPACE] - Abbrechen"
+    },
+    "target": {
+        "openMenu": "Pflanze öffnen",
+        "destroyPlant": "Pflanze zerstören",
+        "openShop": "Shop öffnen"
+    },
+    "notify": {
+        "success": {
+            "title": "Erfolg",
+            "potPlaced": "Du hast den Topf erfolgreich platziert",
+            "seedPlaced": "Du hast die Samen erfolgreich in den Topf gesetzt",
+            "wateredPlant": "Du hast die Pflanze erfolgreich gegossen",
+            "fetilizedPlant": "Du hast die Pflanze erfolgreich gedüngt",
+            "sprayedPlant": "Du hast die Pflanze erfolgreich besprüht",
+            "harvestedPlant": "Du hast eine Pflanze geerntet und x%s %s Blätter erhalten.",
+            "destroyedPlant": "Du hast die Pflanze erfolgreich zerstört",
+            "itemPurchased": "Du hast erfolgreich %s für %s$ gekauft",
+            "plantCarried": "Du hast die Pflanze erfolgreich bewegt",
+            "plantFound": "Du hast die ID der Pflanze erfolgreich kopiert",
+            "teleportedPlant": "Du hast dich erfolgreich zur Pflanze teleportiert",
+            "deletedPlant": "Du hast die Pflanze erfolgreich gelöscht"
+        },
+        "error": {
+            "title": "Fehler",
+            "maxPlants": "Du hast die maximale Anzahl an Töpfen platziert",
+            "noShovel": "Du hast keine Schaufel in deinem Inventar",
+            "maxWater": "Deine Pflanze hat die maximale Menge an Wasser",
+            "noWater": "Du hast kein destilliertes Wasser, um die Pflanze zu gießen",
+            "maxFertilizer": "Deine Pflanze hat die maximale Menge an Dünger",
+            "noFertilizer": "Du hast keinen Dünger, um deine Pflanze zu düngen",
+            "maxSpray": "Deine Pflanze ist maximal besprüht",
+            "noSplay": "Du hast keine Sprühflasche, um deine Pflanze zu besprühen",
+            "noCanister": "Du hast keinen Kanister, um die Pflanze zu zerstören",
+            "noMoney": "Du hast nicht genug Geld, um diesen Gegenstand zu kaufen",
+            "noPlantNearby": "Keine Pflanzen in der Nähe gefunden",
+            "noPlant": "Es gibt keine Pflanze mit der von dir eingegebenen ID",
+            "cantHarvest": "Du kannst die Pflanze nicht ernten, da sie noch nicht gewachsen ist"
+        }
+    }
+}

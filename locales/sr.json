@@ -1,0 +1,66 @@
+{
+    "seedMenu": {
+        "title": "Postavi Seme",
+        "noSeed": "Nemate seme koje biste mogli staviti u saksiju",
+        "putSeed": "Kliknite da stavite seme u saksiju"
+    },
+    "shopMenu": {
+        "itemDesc": "Kliknite za kupovinu predmeta 1x za %s$",
+        "amount": "Količina %s",
+        "enter": "Unesite količinu",
+        "confirmation": "Potvrda",
+        "confirmMessage": "Da li ste sigurni da želite da kupite %s %x za **%s$**?"
+    },
+    "progress": {
+        "placeSeed": "Postavljanje semena...",
+        "sprayPlant": "Prskanje biljke...",
+        "fertilizePlant": "Đubrenje biljke...",
+        "waterPlant": "Zalivanje biljke...",
+        "harvestPlant": "Berba biljke...",
+        "destroyPlant": "Spaljivanje biljke..."
+    },
+    "textUI": {
+        "open": "[E] - Otvori biljku",
+        "destroy": "[G] - Uništi biljku",
+        "shop": "[E] - Otvori prodavnicu",
+        "carry": "Nosi biljku  \n [ENTER] - Spusti na tlo  \n [BACKSPACE] - Odustani"
+    },
+    "target": {
+        "openMenu": "Otvori biljku",
+        "destroyPlant": "Uništi biljku",
+        "openShop": "Otvori prodavnicu"
+    },
+    "notify": {
+        "success": {
+            "title": "Uspešno",
+            "potPlaced": "Uspešno ste postavili saksiju",
+            "seedPlaced": "Uspešno ste stavili seme u saksiju",
+            "wateredPlant": "Uspešno ste zalili biljku",
+            "fetilizedPlant": "Uspešno ste nađubrili biljku",
+            "sprayedPlant": "Uspešno ste poprskali biljku",
+            "harvestedPlant": "Obrali ste biljku i dobili x%s %s listova.",
+            "destroyedPlant": "Uspešno ste uništili biljku",
+            "itemPurchased": "Uspešno ste kupili %s za %s$",
+            "plantCarried": "Uspešno ste pomerili biljku",
+            "plantFound": "Uspešno ste kopirali ID biljke",
+            "teleportedPlant": "Uspešno ste se teleportovali do biljke",
+            "deletedPlant": "Uspešno ste izbrisali biljku"
+        },
+        "error": {
+            "title": "Greška",
+            "maxPlants": "Postavili ste maksimalan broj saksija",
+            "noShovel": "Nemate lopatu u svom inventaru",
+            "maxWater": "Vaša biljka ima maksimalnu količinu vode",
+            "noWater": "Nemate destilovanu vodu za zalivanje biljke",
+            "maxFertilizer": "Vaša biljka ima maksimalnu količinu đubriva",
+            "noFertilizer": "Nemate đubrivo za đubrenje biljke",
+            "maxSpray": "Vaša biljka je maksimalno poprskana",
+            "noSplay": "Nemate bočicu sa raspršivačem za prskanje biljke",
+            "noCanister": "Nemate kanister za uništavanje biljke",
+            "noMoney": "Nemate dovoljno novca za kupovinu predmeta",
+            "noPlantNearby": "Nema biljaka u blizini",
+            "noPlant": "Ne postoji biljka sa ID-om koji ste uneli",
+            "cantHarvest": "Ne možete obrati biljku jer još nije narasla"
+        }
+    }
+}

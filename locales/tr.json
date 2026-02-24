@@ -1,0 +1,66 @@
+{
+    "seedMenu": {
+        "title": "Tohum Yerleştir",
+        "noSeed": "Saksıya koyacak hiç tohumun yok",
+        "putSeed": "Tohumu saksıya koymak için tıkla"
+    },
+    "shopMenu": {
+        "itemDesc": "Öğeyi %s$ karşılığında 1 adet satın almak için tıkla",
+        "amount": "%s miktarı",
+        "enter": "Miktar Girin",
+        "confirmation": "Onay",
+        "confirmMessage": "%s adet %x öğesini **%s$** karşılığında satın almak istediğinden emin misin?"
+    },
+    "progress": {
+        "placeSeed": "Tohum Yerleştiriliyor...",
+        "sprayPlant": "Bitki İlaçlanıyor...",
+        "fertilizePlant": "Bitki Gübreleniyor...",
+        "waterPlant": "Bitki Sulanıyor...",
+        "harvestPlant": "Bitki Hasat Ediliyor...",
+        "destroyPlant": "Bitki Yakılıyor..."
+    },
+    "textUI": {
+        "open": "[E] - Bitkiyi Aç",
+        "destroy": "[G] - Bitkiyi Yok Et",
+        "shop": "[E] - Marketi Aç",
+        "carry": "Bitkiyi Taşı  \n [ENTER] - Yere yerleştir  \n [BACKSPACE] - İptal"
+    },
+    "target": {
+        "openMenu": "Bitkiyi Aç",
+        "destroyPlant": "Bitkiyi Yok Et",
+        "openShop": "Marketi Aç"
+    },
+    "notify": {
+        "success": {
+            "title": "Başarılı",
+            "potPlaced": "Saksıyı başarıyla yerleştirdin",
+            "seedPlaced": "Tohumu saksıya başarıyla koydun",
+            "wateredPlant": "Bitkiyi başarıyla suladın",
+            "fetilizedPlant": "Bitkiyi başarıyla gübreledin",
+            "sprayedPlant": "Bitkiyi başarıyla ilaçladın",
+            "harvestedPlant": "Bitkiyi hasat ettin ve x%s %s yaprağı aldın.",
+            "destroyedPlant": "Bitkiyi başarıyla yok ettin",
+            "itemPurchased": "%s öğesini %s$ karşılığında başarıyla satın aldın",
+            "plantCarried": "Bitkiyi başarıyla taşıdın",
+            "plantFound": "Bitki ID'sini başarıyla kopyaladın",
+            "teleportedPlant": "Bitkiye başarıyla ışınlandın",
+            "deletedPlant": "Bitkiyi başarıyla sildin"
+        },
+        "error": {
+            "title": "Hata",
+            "maxPlants": "Maksimum saksı sayısına ulaştın",
+            "noShovel": "Envanterinde kürek yok",
+            "maxWater": "Bitkin maksimum su miktarına sahip",
+            "noWater": "Bitkiyi sulamak için damıtılmış suyun yok",
+            "maxFertilizer": "Bitkin maksimum gübre miktarına sahip",
+            "noFertilizer": "Bitkiyi gübrelemek için gübren yok",
+            "maxSpray": "Bitkin maksimum ilaçlama seviyesine sahip",
+            "noSplay": "Bitkiyi ilaçlamak için sprey şişen yok",
+            "noCanister": "Bitkiyi yok etmek için bidonun yok",
+            "noMoney": "Öğeyi satın almak için yeterli paran yok",
+            "noPlantNearby": "Yakında bitki bulunamadı",
+            "noPlant": "Girdiğin ID'ye sahip bir bitki yok",
+            "cantHarvest": "Bitki henüz büyümediği için hasat edemezsin"
+        }
+    }
+}
