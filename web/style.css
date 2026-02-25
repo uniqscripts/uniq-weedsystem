@@ -21,7 +21,6 @@ img {
     width: 19vw !important;
     height: 31vw !important;
     padding: 0.5vw;
-    transform: translateX(-100%);
 }
 
 .weed-info .header {
